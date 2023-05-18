@@ -1,4 +1,4 @@
-# [Huashan] AChR+ Myasthenic crisis single cell 
+# AChR+ Myasthenic crisis single cell [Huashan]
 
 <img src="https://github.com/Hirriririir/Myasthenic-Crisis-Single-Cell/blob/main/tag.png" width="400px">
 
