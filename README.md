@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Hirriririir/Myasthenic-Crisis-Single-Cell/blob/main/tag.png" width="400px">
 
-Supplemnetary scripts for the reserch article "**Peripheral immune landscape for hypercytokinemia in AChR+ Myasthenic Crisis utilizing single-cell transcriptomics**".
+Supplemnetary scripts for the reserch article "**Peripheral Immune Landscape for Hypercytokinemia in Myasthenic Crisis Utilizing Single-cell Transcriptomics**".
 
 <img src="https://github.com/Hirriririir/Myasthenic-Crisis-Single-Cell/blob/main/flowchart.png" width="800px">
 
