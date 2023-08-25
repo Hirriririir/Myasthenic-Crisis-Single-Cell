@@ -18,4 +18,4 @@ The processed data generated in this study have been deposited in the release of
 
 ## Citation
 
-Zhong H, Huan X, Zhao R, Su M, Yan C, Song J, Xi J, Zhao C, Luo F, Luo S. Peripheral immune landscape for hypercytokinemia in myasthenic crisis utilizing single-cell transcriptomics. J Transl Med. 2023 Aug 24;21(1):564. doi: 10.1186/s12967-023-04421-y. PMID: [37620910](https://pubmed.ncbi.nlm.nih.gov/37620910/).
+Zhong H, Huan X, Zhao R, Su M, Yan C, Song J, Xi J, Zhao C, Luo F, Luo S. [Peripheral immune landscape for hypercytokinemia in myasthenic crisis utilizing single-cell transcriptomics](https://pubmed.ncbi.nlm.nih.gov/37620910). J Transl Med. 2023 Aug 24;21(1):564. doi: 10.1186/s12967-023-04421-y. PMID: 37620910
